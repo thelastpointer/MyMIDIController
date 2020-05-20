@@ -5,6 +5,8 @@ A simple program that receives MIDI input from a device and adjusts the system v
 
 ![The finished stuff](mymidi.png)
 
+A single Windows .exe is here: [/Releases/MyMIDIController.zip](Releases/MyMIDIController.zip)
+
 ## How
 It uses [DryWetMidi](https://github.com/melanchall/drywetmidi) to connect to a device named "LPD8".
 
