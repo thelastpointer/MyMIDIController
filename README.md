@@ -1,7 +1,7 @@
 # MyMIDIController
 
 ## What
-A simple program that receives MIDI input from a device and adjusts the system volume.
+A simple program that receives MIDI input from a device and adjusts the system volume. For Windows.
 
 ![The finished stuff](mymidi.png)
 
